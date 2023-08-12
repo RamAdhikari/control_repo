@@ -11,6 +11,7 @@ mod 'puppetlabs-stdlib', '9.0.0'
 mod 'puppet-download_file', '4.0.0'
 mod 'puppet-windows_env', '4.0.1'
 mod 'puppet-windowsfeature', '4.0.0'
+mod 'puppetlabs-puppet_agent', '4.14.0'
 
 mod 'stfs_windefender',
   :git => 'https://github.com/RamAdhikari/stfs_windefender'
